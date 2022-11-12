@@ -1,0 +1,197 @@
+{
+    "tests": [
+        {
+            "name": "test_ex1 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "1"
+        },
+        {
+            "name": "test_ex10 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "10"
+        },
+        {
+            "name": "test_ex11 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "11"
+        },
+        {
+            "name": "test_ex12 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "12"
+        },
+        {
+            "name": "test_ex13 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "13"
+        },
+        {
+            "name": "test_ex14 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "14"
+        },
+        {
+            "name": "test_ex15 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "15"
+        },
+        {
+            "name": "test_ex16 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "16"
+        },
+        {
+            "name": "test_ex17 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "17"
+        },
+        {
+            "name": "test_ex18 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "18"
+        },
+        {
+            "name": "test_ex19 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "19"
+        },
+        {
+            "name": "test_ex2 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "2"
+        },
+        {
+            "name": "test_ex20 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "20"
+        },
+        {
+            "name": "test_ex21 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "21"
+        },
+        {
+            "name": "test_ex22 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "22"
+        },
+        {
+            "name": "test_ex23 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "23"
+        },
+        {
+            "name": "test_ex24 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "24"
+        },
+        {
+            "name": "test_ex25 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "25"
+        },
+        {
+            "name": "test_ex26 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "26"
+        },
+        {
+            "name": "test_ex27 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "27"
+        },
+        {
+            "name": "test_ex3 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "3"
+        },
+        {
+            "name": "test_ex4 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "4"
+        },
+        {
+            "name": "test_ex5 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "5"
+        },
+        {
+            "name": "test_ex6 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "6"
+        },
+        {
+            "name": "test_ex7 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "7"
+        },
+        {
+            "name": "test_ex8 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "8"
+        },
+        {
+            "name": "test_ex9 (test_homework1.TestHomework1)",
+            "score": 2,
+            "max_score": 2,
+            "visibility": "visible",
+            "number": "9"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.00",
+    "score": 54
+}
